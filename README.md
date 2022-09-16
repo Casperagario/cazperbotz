@@ -1,6 +1,6 @@
-Recode punya # Dev-3S-Bot
+Recode punya # Casperagario
 
-3S~BoT
+CazperBotz
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/Dev-3S-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Casperagario/cazperbotz)
