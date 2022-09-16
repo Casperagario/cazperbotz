@@ -1,0 +1,21 @@
+{
+  "name": "CazperBotz",
+  "description": "bot wa multydevice",
+  "repository": "https://github.com/arivpns/arivpns",
+  "logo": "https://telegra.ph/file/df447196025b29017e1fa.jpg",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+  },
+  {
+    "url": "https://github.com/fewerandfaster/heroku-buildpack-imagemagick.git"
+  },
+  {
+    "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+  }    
+ ]
+}
