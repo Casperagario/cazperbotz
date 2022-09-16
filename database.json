@@ -89,7 +89,7 @@
       "bannedReason": ""
     },
     "6283854158505@s.whatsapp.net": {
-      "exp": 54,
+      "exp": 62,
       "limit": 10,
       "money": 1000,
       "spin": 10,
@@ -674,7 +674,7 @@
       "bannedReason": ""
     },
     "6285654180548-1633505492@g.us": {
-      "exp": 24,
+      "exp": 28,
       "limit": 10,
       "money": 1000,
       "spin": 10,
@@ -850,7 +850,7 @@
       "bannedReason": ""
     },
     "6288232488101@s.whatsapp.net": {
-      "exp": 7,
+      "exp": 9,
       "limit": 10,
       "money": 1000,
       "spin": 10,
@@ -2082,7 +2082,7 @@
       "bannedReason": ""
     },
     "6287868860325@s.whatsapp.net": {
-      "exp": 13,
+      "exp": 21,
       "limit": 10,
       "money": 1000,
       "spin": 10,
@@ -2170,7 +2170,7 @@
       "bannedReason": ""
     },
     "51902700972@s.whatsapp.net": {
-      "exp": 2,
+      "exp": 10,
       "limit": 10,
       "money": 1000,
       "spin": 10,
@@ -2258,7 +2258,7 @@
       "bannedReason": ""
     },
     "6285880118726@s.whatsapp.net": {
-      "exp": 6,
+      "exp": 12,
       "limit": 10,
       "money": 1000,
       "spin": 10,
@@ -3268,6 +3268,138 @@
       "staff": false,
       "mt": false,
       "bannedReason": ""
+    },
+    "6287867432194@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 10,
+      "money": 1000,
+      "spin": 10,
+      "hoki": 1,
+      "acc": false,
+      "end": false,
+      "raihan": false,
+      "level": 0,
+      "maxspin": 0,
+      "lastclaim": 0,
+      "lastpremgift": 0,
+      "lastpolicegift": 0,
+      "lastmembergift": 0,
+      "registered": false,
+      "name": "Anisaa",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "id": "",
+      "group": false,
+      "joinlimit": 1,
+      "afkReason": "",
+      "warn": 0,
+      "banned": false,
+      "bannedDate": 0,
+      "bannedPoint": 0,
+      "police": false,
+      "miningmode": false,
+      "huntmode": false,
+      "expired": -1,
+      "expiredgroup": -1,
+      "role": "Beginner",
+      "owner": true,
+      "premium": true,
+      "helper": false,
+      "rank": "Owner Bot & User Premium",
+      "autolevelup": true,
+      "verify": 0,
+      "staff": false,
+      "mt": false,
+      "bannedReason": ""
+    },
+    "62857321331166@s.whatsapp.net": {
+      "exp": 18,
+      "limit": 10,
+      "money": 1000,
+      "spin": 10,
+      "hoki": 1,
+      "acc": false,
+      "end": false,
+      "raihan": false,
+      "level": 0,
+      "maxspin": 0,
+      "lastclaim": 0,
+      "lastpremgift": 0,
+      "lastpolicegift": 0,
+      "lastmembergift": 0,
+      "registered": false,
+      "name": "Ikiw",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "id": "",
+      "group": false,
+      "joinlimit": 1,
+      "afkReason": "",
+      "warn": 0,
+      "banned": false,
+      "bannedDate": 0,
+      "bannedPoint": 0,
+      "police": false,
+      "miningmode": false,
+      "huntmode": false,
+      "expired": -1,
+      "expiredgroup": -1,
+      "role": "Beginner",
+      "owner": true,
+      "premium": true,
+      "helper": false,
+      "rank": "Owner Bot & User Premium",
+      "autolevelup": true,
+      "verify": 0,
+      "staff": false,
+      "mt": false,
+      "bannedReason": ""
+    },
+    "6283867187689@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "money": 1000,
+      "spin": 10,
+      "hoki": 1,
+      "acc": false,
+      "end": false,
+      "raihan": false,
+      "level": 0,
+      "maxspin": 0,
+      "lastclaim": 0,
+      "lastpremgift": 0,
+      "lastpolicegift": 0,
+      "lastmembergift": 0,
+      "registered": false,
+      "name": "🌹 Sakura Bot Part II 🌹",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "id": "",
+      "group": false,
+      "joinlimit": 1,
+      "afkReason": "",
+      "warn": 0,
+      "banned": false,
+      "bannedDate": 0,
+      "bannedPoint": 0,
+      "police": false,
+      "miningmode": false,
+      "huntmode": false,
+      "expired": -1,
+      "expiredgroup": -1,
+      "role": "Biasa",
+      "owner": true,
+      "premium": true,
+      "helper": false,
+      "rank": "",
+      "autolevelup": true,
+      "verify": 0,
+      "staff": false,
+      "mt": false,
+      "bannedReason": ""
     }
   },
   "chats": {
@@ -3782,6 +3914,21 @@
       "mining": false
     },
     "120363025223418993@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "maxwarn": 3,
+      "sPromote": "",
+      "expired": 0,
+      "sDemote": "",
+      "warn": false,
+      "delete": true,
+      "antiLink": false,
+      "mining": false
+    },
+    "6287867432194@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": true,
@@ -5383,6 +5530,66 @@
       ],
       "durability": 100,
       "hancur": false
+    },
+    "6287867432194@s.whatsapp.net": {
+      "xpfish": 0,
+      "moneyfish": 0,
+      "salmon": 0,
+      "cod": 0,
+      "tropical": 0,
+      "golden": 0,
+      "sampah": 0,
+      "puffer": 0,
+      "normal": [],
+      "rare": [],
+      "legend": [],
+      "mythic": [],
+      "levelbot": 0,
+      "rod": [
+        "kayu"
+      ],
+      "durability": 100,
+      "hancur": false
+    },
+    "62857321331166@s.whatsapp.net": {
+      "xpfish": 0,
+      "moneyfish": 0,
+      "salmon": 0,
+      "cod": 0,
+      "tropical": 0,
+      "golden": 0,
+      "sampah": 0,
+      "puffer": 0,
+      "normal": [],
+      "rare": [],
+      "legend": [],
+      "mythic": [],
+      "levelbot": 0,
+      "rod": [
+        "kayu"
+      ],
+      "durability": 100,
+      "hancur": false
+    },
+    "6283867187689@s.whatsapp.net": {
+      "xpfish": 0,
+      "moneyfish": 0,
+      "salmon": 0,
+      "cod": 0,
+      "tropical": 0,
+      "golden": 0,
+      "sampah": 0,
+      "puffer": 0,
+      "normal": [],
+      "rare": [],
+      "legend": [],
+      "mythic": [],
+      "levelbot": 0,
+      "rod": [
+        "kayu"
+      ],
+      "durability": 100,
+      "hancur": false
     }
   },
   "pokerole": {
@@ -5930,7 +6137,9 @@
       "attack": 0
     },
     "6288232488101@s.whatsapp.net": {
-      "team": "",
+      "team": [
+        ""
+      ],
       "nameteam": "Sari",
       "pokeball": 10,
       "greatball": 5,
@@ -5952,7 +6161,9 @@
       "tierpoke2": 1,
       "tierpoke3": 1,
       "claim": false,
-      "room": false
+      "room": false,
+      "lupaanj": 0,
+      "attack": 0
     },
     "6289608745989@s.whatsapp.net": {
       "team": [
@@ -6756,7 +6967,9 @@
       "attack": 0
     },
     "51902700972@s.whatsapp.net": {
-      "team": "",
+      "team": [
+        ""
+      ],
       "nameteam": "DON⚡",
       "pokeball": 10,
       "greatball": 5,
@@ -6778,7 +6991,9 @@
       "tierpoke2": 1,
       "tierpoke3": 1,
       "claim": false,
-      "room": false
+      "room": false,
+      "lupaanj": 0,
+      "attack": 0
     },
     "6288225350108@s.whatsapp.net": {
       "team": [
@@ -7459,6 +7674,89 @@
       "tierpoke3": 1,
       "claim": false,
       "room": false
+    },
+    "6287867432194@s.whatsapp.net": {
+      "team": "",
+      "nameteam": "Anisaa",
+      "pokeball": 10,
+      "greatball": 5,
+      "ball": 0,
+      "damage": 0,
+      "list": "",
+      "jumlah": 0,
+      "item": "",
+      "item1": "",
+      "item2": "",
+      "item3": "",
+      "pokemonxp1": "",
+      "pokemonxp2": "",
+      "pokemonxp3": "",
+      "xppoke1": 0,
+      "xppoke2": 0,
+      "xppoke3": 0,
+      "tierpoke1": 1,
+      "tierpoke2": 1,
+      "tierpoke3": 1,
+      "claim": false,
+      "room": false
+    },
+    "62857321331166@s.whatsapp.net": {
+      "team": [
+        ""
+      ],
+      "nameteam": "Ikiw",
+      "pokeball": 10,
+      "greatball": 5,
+      "ball": 0,
+      "damage": 0,
+      "list": "",
+      "jumlah": 0,
+      "item": "",
+      "item1": "",
+      "item2": "",
+      "item3": "",
+      "pokemonxp1": "",
+      "pokemonxp2": "",
+      "pokemonxp3": "",
+      "xppoke1": 0,
+      "xppoke2": 0,
+      "xppoke3": 0,
+      "tierpoke1": 1,
+      "tierpoke2": 1,
+      "tierpoke3": 1,
+      "claim": false,
+      "room": false,
+      "lupaanj": 0,
+      "attack": 0
+    },
+    "6283867187689@s.whatsapp.net": {
+      "team": [
+        ""
+      ],
+      "nameteam": "🌹 Sakura Bot Part II 🌹",
+      "pokeball": 10,
+      "greatball": 5,
+      "ball": 0,
+      "damage": 0,
+      "list": "",
+      "jumlah": 0,
+      "item": "",
+      "item1": "",
+      "item2": "",
+      "item3": "",
+      "pokemonxp1": "",
+      "pokemonxp2": "",
+      "pokemonxp3": "",
+      "xppoke1": 0,
+      "xppoke2": 0,
+      "xppoke3": 0,
+      "tierpoke1": 1,
+      "tierpoke2": 1,
+      "tierpoke3": 1,
+      "claim": false,
+      "room": false,
+      "lupaanj": 0,
+      "attack": 0
     }
   }
 }
